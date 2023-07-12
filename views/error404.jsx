@@ -6,6 +6,12 @@ function error404 () {
       <Def>
           <main>
               <h1>404: PAGE NOT FOUND</h1>
+              <div>
+            <img src="/images/pugDog.jpg" alt="Pug Dog" />
+          </div>
+          <div>
+          Photo by <a href="https://unsplash.com/@dargonesti?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ludovic Migneault</a> on <a href="https://unsplash.com/photos/aonaO3JgJEA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+          </div>
               <p>Oops, sorry, we can't find this page!</p>
           </main>
       </Def>
