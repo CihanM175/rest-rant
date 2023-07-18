@@ -1,5 +1,9 @@
 const Router = require('express').Router()
 
+Router.get('/new', (req, res) => {
+  res.render('places/new')
+})
+
 Router.get('/', (req, res) => {
    let places = [{
         name: 'H-Thai-ML',
